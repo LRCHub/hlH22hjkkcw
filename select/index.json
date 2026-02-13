@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "まっすぐ",
+  "base_artist": "大原ゆい子",
+  "createdAt": "2026-02-13T06:50:53.671682Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "まっすぐ",
+      "artist": "Ai Higuchi",
+      "has_synced": false,
+      "path": "select/01_まっすぐ_Ai_Higuchi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "まっすぐ",
+      "artist": "大原ゆい子",
+      "has_synced": true,
+      "path": "select/02_まっすぐ_大原ゆい子.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ユメ、まっすぐ。",
+      "artist": "島田真夢(CV.吉岡茉祐)",
+      "has_synced": false,
+      "path": "select/03_ユメ、まっすぐ。_島田真夢(CV.吉岡茉祐).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "まっすぐ",
+      "artist": "765PRO ALLSTARS",
+      "has_synced": true,
+      "path": "select/04_まっすぐ_765PRO_ALLSTARS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "まっすぐ",
+      "artist": "Yuiko Ohara",
+      "has_synced": true,
+      "path": "select/05_まっすぐ_Yuiko_Ohara.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "21 まっすぐ",
+      "artist": "大原ゆい子",
+      "has_synced": true,
+      "path": "select/06_21_まっすぐ_大原ゆい子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "まっすぐ",
+      "artist": "大原ゆい子",
+      "has_synced": false,
+      "path": "select/pl_01_まっすぐ_大原ゆい子.txt"
+    }
+  ]
+}
